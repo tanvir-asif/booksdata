@@ -1,0 +1,82 @@
+{
+  "books": [
+    {
+      "bookId": "B001",
+      "bookName": "The Midnight Library",
+      "author": "Matt Haig",
+      "image": "https://i.ibb.co/Q8xy4Dp/b1.jpg",
+      "review": "The Midnight Library by Matt Haig is a deeply moving exploration of regret, choice, and the paths not taken. Nora Seed finds herself in a magical library filled with books, each representing a different life she could have lived had she made different choices. This premise allows Haig to delve into complex philosophical questions about happiness, fulfillment, and the essence of a life well-lived, all while maintaining a captivating narrative. Through Nora's journey across her multiple lives, readers are invited to reflect on their own choices, the fleeting nature of regret, and the possibility of change. Haig's prose is elegant yet accessible, making profound concepts relatable. The book stands out as a heartwarming reminder that it's never too late to change direction and find meaning in our existence. Nora's story is a testament to the power of hope and the human capacity for resilience, making this book a must-read for anyone who has ever wondered 'what if?'",
+      "totalPages": 304,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["Fantasy", "Philosophical"],
+      "publisher": "Canongate Books",
+      "yearOfPublishing": 2020
+    },
+    {
+      "bookId": "B002",
+      "bookName": "Educated",
+      "author": "Tara Westover",
+      "image": "https://i.ibb.co/zHMhB2P/b2.jpg",
+      "review": "Educated by Tara Westover is an unforgettable memoir that captures the essence of self-transformation through the pursuit of knowledge. Born into a survivalist family in the mountains of Idaho, Westover grows up isolated from mainstream society, without any formal education. Despite this, her thirst for knowledge and understanding of the world beyond her family's farm is unquenchable. Westover's journey from her restrictive and abusive upbringing to earning a PhD from Cambridge University is nothing short of remarkable. This memoir is not just a story about education in the traditional sense but also about the education of the self and the relentless quest for a voice and identity in a world that seems alien. Westover's prose is compelling and raw, vividly painting the landscapes of her childhood and the emotional terrain she navigates as she seeks to understand her place in the world. Educated is a testament to the resilience of the human spirit and the transformative power of learning, making it a profound and inspiring read.",
+      "totalPages": 400,
+      "rating": 4.7,
+      "category": "Memoir",
+      "tags": ["Inspirational", "Autobiography"],
+      "publisher": "Random House",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": "B003",
+      "bookName": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "image": "https://i.ibb.co/KDcqSt4/b3.png",
+      "review": "Where the Crawdads Sing by Delia Owens blends a coming-of-age tale with a suspenseful murder mystery, set against the backdrop of the North Carolina marshes. This novel tells the story of Kya Clark, the 'Marsh Girl', abandoned by her family and left to raise herself in the wild marshlands. Owens crafts a narrative that is both a love letter to nature and a poignant exploration of isolation, resilience, and the human need for connection. Through Kya's interactions with the townsfolk and the natural world, Owens delves into themes of prejudice, survival, and the deep scars of abandonment. As Kya grows, she draws the reader into her world, one where she finds solace and survival in the beauty and brutality of nature. The murder mystery element serves as a compelling vehicle to explore the complexities of human nature and the rush to judgment. Owens' lyrical prose and vivid descriptions of the natural world make Where the Crawdads Sing a mesmerizing read, captivating readers with its mystery, romance, and the unyielding power of the human spirit.",
+      "totalPages": 368,
+      "rating": 4.6,
+      "category": "Mystery",
+      "tags": ["Nature", "Coming of Age"],
+      "publisher": "G.P. Putnam's Sons",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": "B004",
+      "bookName": "Normal People",
+      "author": "Sally Rooney",
+      "image": "https://i.ibb.co/L6nzKYy/b4.jpg",
+      "review": "Normal People by Sally Rooney is an exquisite exploration of love, friendship, and the complexities of human connection. Following the intertwined lives of Connell and Marianne, who weave in and out of each other's lives from high school through university, Rooney captures the subtleties of class, power, and the impact of personal history on present relationships. With exceptional nuance and realism, Rooney delves into the characters' psychological landscapes, presenting their vulnerabilities, strengths, and the profound impact they have on each other. Normal People is celebrated for its intimate portrayal of the characters' internal lives and the dynamics of their relationship, which is marked by miscommunications, social disparities, and deep affection. Rooney's writing is unpretentious yet profoundly insightful, offering a mirror to the contemporary human condition and the intricate dance of intimacy and distance in relationships. This novel is a testament to the complexity of human emotions and the transformative power of love and understanding.",
+      "totalPages": 288,
+      "rating": 4.5,
+      "category": "Romance",
+      "tags": ["Contemporary", "Psychological"],
+      "publisher": "Faber & Faber",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": "B005",
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "https://i.ibb.co/gdMK5M8/b5.webp",
+      "review": "The Silent Patient by Alex Michaelides is a gripping psychological thriller that delves deep into the mysteries of the human psyche. The story revolves around Alicia Berenson, a famous painter who suddenly becomes mute after being accused of murdering her husband, and Theo Faber, a psychotherapist obsessed with uncovering her motives. As Theo delves deeper into Alicia's silence and the clues hidden in her last painting, he unravels not only the truth about the murder but also about his own dark past. Michaelides masterfully constructs a narrative filled with suspense, twists, and turns, leading to a stunning conclusion that challenges the reader's perceptions of truth and sanity. The novel's exploration of themes such as trauma, obsession, and the search for truth makes it a compelling read. The Silent Patient stands out for its clever plot, complex characters, and the haunting silence that drives its suspense, making it an unforgettable journey into the depths of madness and redemption.",
+      "totalPages": 336,
+      "rating": 4.5,
+      "category": "Thriller",
+      "tags": ["Psychological", "Mystery"],
+      "publisher": "Orion Publishing Co",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": "B006",
+      "bookName": "Becoming",
+      "author": "Michelle Obama",
+      "image": "https://i.ibb.co/ZhhXhNP/b6.jpg",
+      "review": "Becoming by Michelle Obama is an inspiring and deeply personal memoir that takes readers through the life of the former First Lady of the United States, from her childhood in the South Side of Chicago to her years in the White House. With warmth, grace, and candid reflections, Obama shares her experiences of balancing the demands of motherhood and professional life, and her role in one of the most scrutinized public positions. Becoming is more than a memoir; it's a powerful narrative of resilience, love, and the journey of finding one's voice in the world. Obama's storytelling is infused with her characteristic poise and insight, offering valuable lessons on perseverance, self-discovery, and the impact of lifting others. The book resonates not only because of her unique experiences but also because of the universal themes of growth, challenge, and hope. Becoming is a testament to the strength of character and the possibility of change, making it a source of inspiration for readers worldwide.",
+      "totalPages": 448,
+      "rating": 4.9,
+      "category": "Biography",
+      "tags": ["Inspirational", "Political"],
+      "publisher": "Crown Publishing Group",
+      "yearOfPublishing": 2018
+    }
+  ]
+}
